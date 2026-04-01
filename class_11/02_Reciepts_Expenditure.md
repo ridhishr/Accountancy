@@ -241,6 +241,121 @@ Great 👍 let’s check all answers **step-by-step with simple explanations** s
 
 ---
 
+Perfect 👍 this topic is **very important for exams**, so here are **practice questions from basic to exam level**.
+
+---
+
+# 📝 PART 1: Identify Type (Receipts)
+
+### Q1. State whether the following are **Capital Receipts or Revenue Receipts**:
+
+1. Sale of goods
+2. Loan taken from bank
+3. Commission received
+4. Owner brings capital
+5. Sale of old machinery
+6. Interest received
+7. Rent received
+
+---
+
+# 📝 PART 2: Identify Type (Expenditure)
+
+### Q2. State whether the following are **Capital Expenditure, Revenue Expenditure, or Deferred Revenue Expenditure**:
+
+1. Purchase of machinery
+2. Salary paid to employees
+3. Heavy advertisement campaign ₹1,00,000
+4. Purchase of goods for resale
+5. Repair of building
+6. Purchase of furniture
+7. Electricity bill
+
+---
+
+# 📝 PART 3: Expense vs Expenditure
+
+### Q3. Identify whether the following is **Expense or Expenditure**:
+
+1. Payment for machinery
+2. Rent paid
+3. Salary paid
+4. Purchase of building
+5. Depreciation on machinery
+
+---
+
+# 📝 PART 4: Income, Profit, Loss
+
+### Q4. Calculate:
+
+1. Revenue = ₹80,000, Expenses = ₹50,000 → Find Income
+2. Total Revenue = ₹1,20,000, Total Expenses = ₹1,50,000 → Profit or Loss? Amount?
+3. Revenue = ₹70,000, Expenses = ₹70,000 → Result?
+
+---
+
+# 📝 PART 5: Gain
+
+### Q5. Identify Gain:
+
+1. Machine bought for ₹20,000 sold for ₹25,000
+2. Goods sold in normal business
+3. Old furniture sold at higher price
+
+---
+
+# 📝 PART 6: Case Study (Real-Life)
+
+### Q6. Ravi’s Business Transactions:
+
+* Started business with ₹2,00,000
+* Sold goods ₹50,000
+* Paid salary ₹10,000
+* Purchased machinery ₹40,000
+* Spent ₹60,000 on advertisement (benefit for 3 years)
+* Took loan ₹1,00,000
+
+👉 Identify:
+
+1. Capital Receipts
+2. Revenue Receipts
+3. Capital Expenditure
+4. Revenue Expenditure
+5. Deferred Revenue Expenditure
+
+---
+
+# 📝 PART 7: Mixed Concept
+
+### Q7. Classify the following:
+
+| Item                  | Type |
+| --------------------- | ---- |
+| Interest received     | ?    |
+| Purchase of building  | ?    |
+| Advertisement expense | ?    |
+| Loan from bank        | ?    |
+| Salary                | ?    |
+| Sale of machinery     | ?    |
+
+---
+
+# ⭐ BONUS (Exam Level Thinking)
+
+### Q8. True or False:
+
+1. All receipts are income
+2. All expenses are expenditure
+3. Capital expenditure gives long-term benefit
+4. Revenue receipts are non-recurring
+5. Gain is part of normal business activity
+
+solutions 
+Great 👍 let’s check all answers **step-by-step with simple explanations** so you understand clearly.
+
+---
+
 # ✅ PART 1: Receipts
 
 ### Q1 Answers:
@@ -370,8 +485,6 @@ Great 👍 let’s check all answers **step-by-step with simple explanations** s
 
 5. Gain is normal business activity → **False** ❌
    (It is not regular)
-
----
 
 
 
