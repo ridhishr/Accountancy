@@ -224,7 +224,328 @@ Machine value = ₹20,000
 Sold for ₹25,000
 👉 Gain = ₹5,000
 
+Great 👍 you’re covering **very important accounting basics**. I’ll explain each term in **simple language with real-life shop examples**.
+
 ---
+
+# 🛒 1. Purchases & Purchase Return (Returns Outwards)
+
+### 🔹 Purchases
+
+Goods bought for **resale**.
+
+👉 Example:
+Ravi (shopkeeper) buys shirts worth ₹20,000 → **Purchases**
+
+---
+
+### 🔹 Purchase Return / Returns Outwards
+
+Goods returned to supplier.
+
+👉 Example:
+Ravi returns defective shirts worth ₹2,000 → **Purchase Return**
+
+👉 “Outwards” = going **out of business**
+
+---
+
+# 🏷️ 2. Sales & Sales Return (Returns Inwards)
+
+### 🔹 Sales
+
+Goods sold by business.
+
+👉 Example:
+Ravi sells shirts worth ₹10,000 → **Sales**
+
+---
+
+### 🔹 Sales Return / Returns Inwards
+
+Goods returned by customers.
+
+👉 Example:
+Customer returns shirts worth ₹1,000 → **Sales Return**
+
+👉 “Inwards” = coming **into business**
+
+---
+
+# 📦 3. What are Goods?
+
+Goods = items bought for **resale**
+
+👉 Example:
+
+* Shopkeeper → clothes
+* Grocery shop → rice, oil
+
+❗ Furniture or machinery = NOT goods (they are assets)
+
+---
+
+# 📅 4. Financial Year
+
+A **12-month period** for accounting.
+
+👉 In India:
+**1 April to 31 March**
+
+👉 Example:
+1 April 2025 – 31 March 2026
+
+---
+
+# 📊 5. Stock
+
+### 🔹 Stock
+
+Unsold goods in business.
+
+👉 Example:
+Ravi has 100 shirts left → **Stock**
+
+---
+
+### 🔹 Opening Stock
+
+Stock at the **beginning of year**
+
+👉 Example:
+On 1 April → 50 shirts
+
+---
+
+### 🔹 Closing Stock
+
+Stock at the **end of year**
+
+👉 Example:
+On 31 March → 80 shirts
+
+---
+
+# 📦 6. Inventory & Its Types
+
+**Inventory = All goods/materials in business**
+
+---
+
+## (1) Raw Material
+
+Used to make products
+
+👉 Example:
+Cloth used to make shirts
+
+---
+
+## (2) Work in Progress (WIP)
+
+Partly completed goods
+
+👉 Example:
+Half-stitched shirts
+
+---
+
+## (3) Finished Goods
+
+Ready for sale
+
+👉 Example:
+Fully stitched shirts
+
+---
+
+## (4) Stock-in-Trade
+
+Goods kept for resale
+
+👉 Example:
+A shopkeeper’s ready shirts
+
+---
+
+# 👥 7. Trade Receivables, Debtors, Bills Receivable
+
+### 🔹 Trade Receivables
+
+Total amount customers owe to business
+
+👉 Includes:
+
+* Debtors
+* Bills receivable
+
+---
+
+### 🔹 Debtors
+
+Customers who bought on credit
+
+👉 Example:
+Ravi sells goods to Amit on credit ₹5,000 → Amit is **Debtor**
+
+---
+
+### 🔹 Bills Receivable
+
+Written promise to receive money
+
+👉 Example:
+Amit signs a bill to pay after 3 months → **Bills Receivable**
+
+---
+
+# 💳 8. Trade Payables, Creditors, Bills Payable
+
+### 🔹 Trade Payables
+
+Total amount business has to pay
+
+👉 Includes:
+
+* Creditors
+* Bills payable
+
+---
+
+### 🔹 Creditors
+
+Suppliers from whom goods are bought on credit
+
+👉 Example:
+Ravi buys goods from Suresh on credit → Suresh is **Creditor**
+
+---
+
+### 🔹 Bills Payable
+
+Written promise to pay money
+
+👉 Example:
+Ravi signs bill to pay after 2 months → **Bills Payable**
+
+---
+
+# 💸 9. Discount, Trade Discount, Cash Discount, Rebate
+
+### 🔹 Discount
+
+Reduction in price
+
+---
+
+### 🔹 Trade Discount
+
+Given at time of purchase (NOT recorded in books)
+
+👉 Example:
+Price = ₹1,000
+Discount = ₹100
+Pay = ₹900
+
+---
+
+### 🔹 Cash Discount
+
+Given for quick payment (recorded)
+
+👉 Example:
+₹1,000 due
+Pay early → ₹950
+
+---
+
+### 🔹 Rebate
+
+Refund or partial return after payment
+
+👉 Example:
+Seller returns ₹200 later → **Rebate**
+
+---
+
+# 📒 10. Entry, Bad Debts, Insolvent, Solvent
+
+### 🔹 Entry
+
+Recording transaction in books
+
+👉 Example:
+Writing purchase in journal
+
+---
+
+### 🔹 Bad Debts
+
+Money that cannot be recovered
+
+👉 Example:
+Customer unable to pay ₹5,000
+
+---
+
+### 🔹 Insolvent
+
+Person who **cannot pay debts**
+
+👉 Example:
+Customer has no money → insolvent
+
+---
+
+### 🔹 Solvent
+
+Person who **can pay debts**
+
+---
+
+# 📈 11. Turnover, Livestock, Investments
+
+### 🔹 Turnover
+
+Total sales of business
+
+👉 Example:
+Total sales = ₹5,00,000 → turnover
+
+---
+
+### 🔹 Livestock
+
+Animals used in business
+
+👉 Example:
+Cows in dairy business
+
+---
+
+### 🔹 Investments
+
+Money invested to earn income
+
+👉 Example:
+Buying shares, bonds
+
+---
+
+# 🎯 Quick Summary
+
+* Purchases → buying goods
+* Sales → selling goods
+* Stock → unsold goods
+* Debtors → give money
+* Creditors → take money
+* Inventory → all goods
+* Discount → price reduction
+* Bad debts → not recoverable
+* Turnover → total sales
+
+
+
 
 # 🎯 Quick Summary
 
